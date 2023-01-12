@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "Cambridge"
+title                    : "My WeBSiTe"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "William Zhang"
+description              : &description "pokemon plushies"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -194,7 +194,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: pianos
     values:
       layout: single
       author_profile: true
