@@ -11,7 +11,7 @@ title                    : "My WeBSiTe"
 title_separator          : "-"
 name                     : &name "William Zhang"
 description              : &description "plushies"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://williamzhang64.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "William"
-  avatar           : "/../images/profile.png"
+  avatar           : "images/profile.png"
   bio              : "pokemonplushies"
   location         : "Cambridge"
   employer         :
