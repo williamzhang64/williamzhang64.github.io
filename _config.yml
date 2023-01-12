@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "SIDEBAR"
+  avatar           : "images/zelda.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
@@ -194,7 +194,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: pianos
+      type: posts
     values:
       layout: single
       author_profile: true
